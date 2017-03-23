@@ -2,6 +2,10 @@
 
 Scheduling with green power 
 
+## Files
+
+green_energy_simulator.tgz: python and R files of the simulator
+coming soon: green_energy_results.tgz: R data_frame with the mean makespan and flowtime for the heatmaps
 
 ## TaskGeneration
 python code to generate tasks:
