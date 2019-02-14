@@ -4,7 +4,9 @@ Scheduling with green power
 
 ## Files
 
-green_energy_simulator.tgz: python and R files of the simulator
+- green_energy_simulator.tgz: python and R files of the simulator
+- simulatorWithIntValues.tgz: smae simulator but simplified with int values
+- 
 coming soon: green_energy_results.tgz: R data_frame with the mean makespan and flowtime for the heatmaps
 
 ## TaskGeneration
